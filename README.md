@@ -77,6 +77,7 @@ function VegiPage() {
 export default VegiPage;
 
 Project Structure
+
 myfirstnextapp/
 ├── src/
 │   └── app/
